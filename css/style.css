@@ -1,0 +1,52 @@
+.box{ 
+
+	background-color:white;
+	border:1px solid black;
+	min-height:300px;
+	overflow:hidden;
+}
+.Head{
+   
+	background-color:white;
+	border:1px solid black;
+	min-height:100px;
+	overflow:hidden;
+       
+		
+}
+
+.image{
+	background-color:white;
+	border:1px solid black;
+	min-height:300px;
+	overflow:hidden;
+		
+}
+.map{
+	background-color:white;
+	border:1px solid black;
+	min-height:300px;
+	overflow:hidden;
+    
+}
+
+
+.container {
+
+}
+    
+.row {
+
+}
+  
+.col-md-12 {
+
+}
+  
+.head {
+
+}
+
+.w3-center {
+
+}
