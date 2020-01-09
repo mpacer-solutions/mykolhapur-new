@@ -67,7 +67,7 @@ include_once 'header.php';
         </div>
     </div>
 
-    <h2 class="section-title">Why Kolhapur Is More than Just Its Famous Kolhapuri Chappals</h2>
+    <h2 class="section-title"> Kolhapur is famous because of god's blessing </h2>
 
     <div class="row">
         <div class="col-sm-6 col-md-4">
