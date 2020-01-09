@@ -1,5 +1,7 @@
 
 <?php
+
+$active_kaneri="active";
 include_once 'header.php'
 ?>
 
@@ -50,7 +52,7 @@ include_once 'header.php'
     </div>
     <div class="col-md-8">
       <div class="block">
-        <h2 class="block-title">About Khasbag Maidan</h2>
+        <h2 class="block-title">About Kaneri Math</h2>
         <p>
           Siddhagiri Gramjivan Museum (Kaneri Math) at Kaneri, Kolhapur district, Maharashtra, is a sculpture museum. 
           The full name is Siddhagiri Gramjivan (Village life) Museum. It is situated at Shri Kshetra Siddhagiri Math,
@@ -105,13 +107,13 @@ include_once 'header.php'
 
     <div class="col-sm-6 col-md-4">
       <div class="thumbnail">
-        <img src="images/khasbagimg/6.jpg" alt="...">
+        <img src="images/kaneri/2.jpg" class="img-responsive">
         <div class="caption text-center">
-          <h3>Thushi</h3>
+          <h3>What to See</h3>
           <p class="content">
-          1.Bhavani Mandap<br>
-          2.Bikhambi Ganesh Temple<br>
-          3.Maidan<br>
+          1.Siddagiri Museum<br>
+          2.Datta Temple<br>
+          3.Kopeswar Temple<br>
           </p>
           <p><a href="#" class="btn btn-primary" role="button">Read more</a></p>
         </div>

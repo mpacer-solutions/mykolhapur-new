@@ -1,5 +1,6 @@
 
 <?php
+$active_khasbag="active";
 include_once 'header.php'
 ?>
 
