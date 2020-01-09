@@ -117,16 +117,8 @@ include_once 'header.php';
         </div>
 
     </div>
-<<<<<<< HEAD
-
-
-    <?php
-    include_once 'footer.php'
-    ?>
-=======
   </div>
 </div>
 <?php
 include_once 'footer.php';
 ?>
->>>>>>> 6376aeec3db7679fb4ac4abdaef8ebc68624672c
