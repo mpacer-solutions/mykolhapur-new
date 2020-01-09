@@ -18,7 +18,7 @@ include_once 'header.php';
         <!-- Wrapper for slides -->
         <div class="carousel-inner" >
             <div class="item active" >
-              <img src="images/Jotibaimage/temple2.jpg" class="img-responsive" style="width=100% height=100%">
+              <img src="images/Jotibaimage/temple2.jpg" class="img-responsive">
             </div>
             <div class="item" >
                 <img src="images/Jotibaimage/God.jpg" class="img-responsive">
