@@ -21,7 +21,7 @@ include_once 'header.php';
                 <img src="images/panhala-images/1.png" alt="" style="width:100%; height:100%;">
               </div>
               <div class="item">
-                <img src="images/panhala-images/6.jpg" alt="" style="width:100%; height:100%;">
+                <img src="images/panhala-images/5.jpg" alt="" style="width:100%; height:100%;">
               </div>
               <div class="item">
                 <img src="images/panhala-images/7.webp" alt="" style="width:100%; height:100%;">
