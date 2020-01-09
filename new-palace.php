@@ -5,7 +5,7 @@ include_once 'header.php';
 ?>
 
 <main class="container-fluid">
-    <h1 class="page-title">Welcome To Kolhapur</h1>
+    <h1 class="page-title">Welcome To New Palace</h1>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
