@@ -17,19 +17,19 @@ include_once 'header.php'
     <!-- Wrapper for slides -->
     <div class="carousel-inner" >
       <div class="item active" >
-        <img src="images/khasbagimg/3.jpg" class="img-responsive" width="100%" height="100%">
+        <img src="images/kaneri/1.jpg" class="img-responsive" width="100%" height="100%">
       </div>
       <div class="item" >
-        <img src="images/khasbagimg/8.jpg" class="img-responsive" width="100%" height="100%">
+        <img src="images/kaneri/2.jpg" class="img-responsive" width="100%" height="100%">
       </div>
       <div class="item" >
-        <img src="images/khasbagimg/5.jpg" class="img-responsive" width="100%" height="100%">
+        <img src="images/kaneri/3.jpg" class="img-responsive" width="100%" height="100%">
       </div>
       <div class="item" >
-        <img src="images/khasbagimg/2.jpg" class="img-responsive" width="100%" height="100%">
+        <img src="images/kaneri/4.jpg" class="img-responsive" width="100%" height="100%">
       </div>
       <div class="item" >
-        <img src="images/khasbagimg/1.jpg" class="img-responsive" width="100%" height="100%">
+        <img src="images/kaneri/5.jpg" class="img-responsive" width="100%" height="100%">
       </div>
     </div><!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -37,7 +37,7 @@ include_once 'header.php'
       <span class="sr-only">Previous</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="glyphicon glyphicon-chevron-right"></span>   
       <span class="sr-only">Next</span>
     </a>
   </div>
@@ -45,21 +45,24 @@ include_once 'header.php'
   <div class="row">
     <div class="col-md-4">
       <div class="block">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3821.683525288535!2d74.22392011435814!3d16.6927128884984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1000e82e46709%3A0x6f847d026e8b16fc!2sKhasbag%20Maidan!5e0!3m2!1sen!2sin!4v1578552084109!5m2!1sen!2sin" width="500" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3823.313048424459!2d74.26332281486563!3d16.61105078854821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc0fee01bd944b9%3A0xa31b60f80821f883!2sSiddhagiri%20Gramjivan%20Sangrahalaya%20-Kaneri%20Math!5e0!3m2!1sen!2sin!4v1578561776675!5m2!1sen!2sin" width="550" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
       </div>
     </div>
     <div class="col-md-8">
       <div class="block">
         <h2 class="block-title">About Khasbag Maidan</h2>
         <p>
-          Rajarshi Shahu Kashbag wrestling ground is on west side of Keshavrao Bhosale Drama theatre. 
-          It is used for wrestling competitions surrounding the main west area there is open space for 15 to 2000 spectators. 
-          There are total five gates for entering this wrestling ground. 
-          On the east side of the ground there is a big stage of 35*35 size. In adittion to wrestling competition,
-          big singing programes or shows by cine artist are arranged on this ground.It is an architectural beauty.
-          There is a stage for invited and honourable persons and is covered by pavilion. 
-          Surrounding the ground there are raised steel bases which keep the spectators at appropriate distance and prevent from entering the ground.
-          About 25 to 30 thousand people can sit here. Main entrance is on the east side and has Keshavrao Bhosale drama theatre on its side.
+          Siddhagiri Gramjivan Museum (Kaneri Math) at Kaneri, Kolhapur district, Maharashtra, is a sculpture museum. 
+          The full name is Siddhagiri Gramjivan (Village life) Museum. It is situated at Shri Kshetra Siddhagiri Math,
+          a campus built around the Moola-Kaadsiddheswar Shiva temple.
+          This museum showcases different aspects of Gramjivan (village life). Gram means village and jivan means life in the Marathi language. 
+          This initiative was the dream of Mahatma Gandhi, and was created through the vision and efforts of Siddhagiri Gurukul Foundation.
+          The history of self-sufficient village life in Maharshtra, before the invasion of the Mughals,
+          is depicted in the form of cement sculptures.
+          Each sculpture is lifelike and represents activities performed in daily village life. There were 12 Balutedars (essentially artisan castes), 
+          and 18 Alutedars who provided equipment to carry out domestic and professional tasks. 
+          The museum is spread over 7 acres (28,000 m2), and the surrounding countryside is beautiful, with lush greenery.
+          Every aspect of village life has been depicted in almost 80 scenes that showcase more than 300 statues.
         </p>
       </div>
     </div>
@@ -104,7 +107,7 @@ include_once 'header.php'
       <div class="thumbnail">
         <img src="images/khasbagimg/6.jpg" alt="...">
         <div class="caption text-center">
-          <h3>What to see</h3>
+          <h3>Thushi</h3>
           <p class="content">
           1.Bhavani Mandap<br>
           2.Bikhambi Ganesh Temple<br>
@@ -114,8 +117,6 @@ include_once 'header.php'
         </div>
       </div>
     </div>
-
-  </div>
 
   </div>
 </main>

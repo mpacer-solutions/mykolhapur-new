@@ -20,13 +20,12 @@
                         <li class="active"><a href="index.php">Home</a></li>
                         <li><a href="mahalaxmi-temple.php">Mahalaxmi-Temple</a></li>
                         <li><a href="new-palace.php">New-Palace</a></li>
-                        <li><a href="khasbag-maidan.php">Khasbag-Maidan</a></li>
+                        <li class="active"><a href="khasbag-maidan.php">Khasbag-Maidan</a></li>
                         <li><a href="rankala.php">Rankala</a></li>
                         <li><a href="Panhala-Fort.php">Panhala-Fort</a></li>
                         <li><a href="jotiba-temple.php">Jotiba-Temple</a></li>
                         <li><a href="kaneri-math.php">Kaneri-Math</a></li>
-                        <li><a href="kaneri-math.php">Kaneri-Math</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
         </header>
