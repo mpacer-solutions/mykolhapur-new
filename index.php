@@ -1,5 +1,6 @@
 
 <?php
+$active_index="active";
 include_once 'header.php'
 ?>
 
