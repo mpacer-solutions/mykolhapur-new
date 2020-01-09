@@ -1,6 +1,7 @@
 
 <?php
-include_once 'header.php'
+$active_panhala="active";
+include_once 'header.php';
 ?>
 
 
