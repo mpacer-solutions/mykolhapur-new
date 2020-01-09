@@ -18,19 +18,19 @@ include_once 'header.php';
         <!-- Wrapper for slides -->
         <div class="carousel-inner" >
             <div class="item active" >
-                <img src="images/mahalaxmi-images/m2.jpg" class="img-responsive">
+                <img src="images/Mahalaxmi-images/m2.jpg" class="img-responsive">
             </div>
             <div class="item" >
-                <img src="images/mahalaxmi-images/mahalaxmi2.png" class="img-responsive">
+                <img src="images/Mahalaxmi-images/mahalaxmi2.png" class="img-responsive">
             </div>
             <div class="item" >
-                <img src="images/mahalaxmi-images/mahalxmi.jpg" class="img-responsive" >
+                <img src="images/Mahalaxmi-images/mahalxmi.jpg" class="img-responsive" >
             </div>
             <div class="item" >
-                <img src="images/mahalaxmi-images/mahaxmi4.png" class="img-responsive">
+                <img src="images/Mahalaxmi-images/mahaxmi4.png" class="img-responsive">
             </div>
             <div class="item" >
-                <img src="images/mahalaxmi-images/Mahalakshmi_temple,_Kolhapur.jpg" class="img-responsive">
+                <img src="images/Mahalaxmi-images/Mahalakshmi_temple,_Kolhapur.jpg" class="img-responsive">
             </div>
         </div><!-- Left and right controls -->
         <a class="left carousel-control" href="#myCarousel" data-slide="prev">
