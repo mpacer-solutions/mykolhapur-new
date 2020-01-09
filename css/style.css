@@ -1,52 +1,68 @@
-.box{ 
-
-	background-color:white;
-	border:1px solid black;
-	min-height:300px;
-	overflow:hidden;
+/*************************/
+/* Header navigation */
+header.navbar {
+  min-height: 100px;
+  overflow: hidden;
+  background-image: linear-gradient(to right, #FF3300 , #FFFD00);
+  background-size: cover;
 }
-.Head{
-   
-	background-color:white;
-	border:1px solid black;
-	min-height:100px;
-	overflow:hidden;
-       
-		
+.navbar-brand {
+  padding: 0px;
+  height:100px;
 }
-
-.image{
-	background-color:white;
-	border:1px solid black;
-	min-height:300px;
-	overflow:hidden;
-		
+.navbar-brand>img {
+  height: 100%;
+  width: auto;
 }
-.map{
-	background-color:white;
-	border:1px solid black;
-	min-height:300px;
-	overflow:hidden;
-    
+header.navbar .container-fluid,
+header.navbar .navbar-collapse{
+  padding: 0;
+}
+header.navbar .navbar-nav {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
+/*************************/
 
-.container {
-
+/* page elements */
+.page-title {
+  background-image: linear-gradient(to right, #FFFD00 , #FF3300);
+  padding: 1em;
+  color: #fff;
 }
-    
-.row {
-
+.block {
+  margin-top: 20px;
 }
-  
-.col-md-12 {
-
+.block-title {
+  background-image: linear-gradient(to right, #f17362 , #dddc92);
+  padding: 0.5em;
 }
-  
-.head {
-
+.section-title {
+  background-image: linear-gradient(to right, #f4b0c7 , #413c69);
+  padding: 0.8em;
 }
-
-.w3-center {
-
+/* carousel */
+.carousel .item {
+  height: 300px;
+}
+.carousel .item>img {
+  margin: 0 auto;
+}
+/* thumbnail */
+.thumbnail>img {
+  height: 250px;
+}
+.thumbnail .caption>p.content {
+  height: 170px;
+  overflow: hidden;
+}
+/**********/
+/* footer */
+.footer {
+  background-color: #66655d;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 1em;
 }
