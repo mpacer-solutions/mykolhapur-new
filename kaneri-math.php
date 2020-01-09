@@ -1,12 +1,11 @@
 
 <?php
-
-$active_kaneri="active";
+$active_kaneri = "active";
 include_once 'header.php'
 ?>
 
 <main class="container-fluid">
-  <h1 class="page-title">Welcome To Khasbag Maidan</h1>
+  <h1 class="page-title">Welcome To Kaneri Math</h1>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -70,7 +69,7 @@ include_once 'header.php'
     </div>
   </div>
 
-  <h2 class="section-title">Kolhapur city is famous for the game of wrestling in India.</h2>
+  <h2 class="section-title">Kolhapur city is famous for the Kaneri Math</h2>
 
   <div class="row">
     <div class="col-sm-6 col-md-4">
@@ -79,11 +78,11 @@ include_once 'header.php'
         <div class="caption text-center">
           <h3>Hotels</h3>
           <p class="content">
-          1.Hotel Royal Treat<br>
-          2.Hotel Madhuri Executive<br>
-          3.Hotel Solanki Guest House<br>
-          4.Hotel Classic Mid Town<br>
-          5.Hotel Silver Oak<br>
+            1.Hotel Royal Treat<br>
+            2.Hotel Madhuri Executive<br>
+            3.Hotel Solanki Guest House<br>
+            4.Hotel Classic Mid Town<br>
+            5.Hotel Silver Oak<br>
           </p>
           <p><a href="#" class="btn btn-primary" role="button">Read more</a></p>
         </div>
@@ -111,9 +110,11 @@ include_once 'header.php'
         <div class="caption text-center">
           <h3>What to See</h3>
           <p class="content">
-          1.Siddagiri Museum<br>
-          2.Datta Temple<br>
-          3.Kopeswar Temple<br>
+            1.Siddagiri Museum<br>
+            2.Datta Temple<br>
+            3.Kopeswar Temple<br>
+            4.Ghost House <br>
+            5.Mirror House
           </p>
           <p><a href="#" class="btn btn-primary" role="button">Read more</a></p>
         </div>

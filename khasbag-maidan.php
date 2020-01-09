@@ -1,6 +1,6 @@
 
 <?php
-$active_khasbag="active";
+$active_khasbag = "active";
 include_once 'header.php'
 ?>
 
@@ -75,11 +75,11 @@ include_once 'header.php'
         <div class="caption text-center">
           <h3>Hotels</h3>
           <p class="content">
-          1.Hotel Royal Treat<br>
-          2.Hotel Madhuri Executive<br>
-          3.Hotel Solanki Guest House<br>
-          4.Hotel Classic Mid Town<br>
-          5.Hotel Silver Oak<br>
+            1.Hotel Royal Treat<br>
+            2.Hotel Madhuri Executive<br>
+            3.Hotel Solanki Guest House<br>
+            4.Hotel Classic Mid Town<br>
+            5.Hotel Silver Oak<br>
           </p>
           <p><a href="#" class="btn btn-primary" role="button">Read more</a></p>
         </div>
@@ -107,9 +107,9 @@ include_once 'header.php'
         <div class="caption text-center">
           <h3>What to see</h3>
           <p class="content">
-          1.Bhavani Mandap<br>
-          2.Bikhambi Ganesh Temple<br>
-          3.Maidan<br>
+            1.Bhavani Mandap<br>
+            2.Bikhambi Ganesh Temple<br>
+            3.Maidan<br>
           </p>
           <p><a href="#" class="btn btn-primary" role="button">Read more</a></p>
         </div>
@@ -118,7 +118,7 @@ include_once 'header.php'
 
   </div>
 
-  </div>
+</div>
 </main>
 
 <?php
