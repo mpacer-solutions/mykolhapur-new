@@ -18,19 +18,19 @@ include_once 'header.php';
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
               <div class="item active">
-                <img src="images/1.png" alt="" style="width:100%; height:50%;">
+                <img src="images/panhala-images/1.png" alt="" style="width:100%; height:100%;">
               </div>
               <div class="item">
-                <img src="images/2.jpg" alt="" style="width:100%; height:50%;">
+                <img src="images/panhala-images/5.jpg" alt="" style="width:100%; height:100%;">
               </div>
               <div class="item">
-                <img src="images/3.png" alt="" style="width:100%; height:50%;">
+                <img src="images/panhala-images/7.webp" alt="" style="width:100%; height:100%;">
               </div>
               <div class="item">
-                <img src="images/4.jpeg" alt="" style="width:100%; height:50%;">
+                <img src="images/panhala-images/4.jpeg" alt="" style="width:100%; height:100%;">
               </div>
               <div class="item">
-                <img src="images/5.jpg" alt="" style="width:100%; height:50%;">
+                <img src="images/panhala-images/5.jpg" alt="" style="width:100%; height:100%;">
               </div>
             </div>
             <!-- Left and right controls -->
@@ -127,6 +127,3 @@ include_once 'header.php';
 <?php
 include_once 'footer.php';
 ?>
-
-</body>
-</html>
