@@ -3,6 +3,7 @@
 include_once 'header.php'
 ?>
 
+
 <main class="container-fluid">
     <h1 class="page-title">Welcome To Panhala</h1>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -115,8 +116,16 @@ include_once 'header.php'
         </div>
 
     </div>
+<<<<<<< HEAD
 
 
     <?php
     include_once 'footer.php'
     ?>
+=======
+  </div>
+</div>
+<?php
+include_once 'footer.php';
+?>
+>>>>>>> 6376aeec3db7679fb4ac4abdaef8ebc68624672c
