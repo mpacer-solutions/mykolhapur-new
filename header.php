@@ -17,15 +17,14 @@
                 </div>
                 <div id="navbar2" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="mahalaxmi-temple.php">Mahalaxmi-Temple</a></li>
-                        <li><a href="new-palace.php">New-Palace</a></li>
-                        <li><a href="khasbag-maidan.php">Khasbag-Maidan</a></li>
-                        <li><a href="rankala.php">Rankala</a></li>
-                        <li><a href="Panhala-Fort.php">Panhala-Fort</a></li>
-                        <li><a href="jotiba-temple.php">Jotiba-Temple</a></li>
-                        <li><a href="kaneri-math.php">Kaneri-Math</a></li>
-                        <li><a href="kaneri-math.php">Kaneri-Math</a></li>
+                        <li class="<?php print $active_index?>"><a href="index.php">Home</a></li>
+                        <li class="<?php print $active_mahalaxmi?>"><a href="mahalaxmi-temple.php">Mahalaxmi-Temple</a></li>
+                        <li class="<?php print $active_new_palace?>"><a href="new-palace.php">New-Palace</a></li>
+                        <li class="<?php print $active_khasbag?>"><a href="khasbag-maidan.php">Khasbag-Maidan</a></li>
+                        <li class="<?php print $active_rankla?>"><a href="rankala.php">Rankala</a></li>
+                        <li class="<?php print $active_panhala?>"><a href="Panhala-Fort.php">Panhala-Fort</a></li>
+                        <li class="<?php print $active_jotiba?>"><a href="jotiba-temple.php">Jotiba-Temple</a></li>
+                        <li class="<?php print $active_kaneri?>"><a href="kaneri-math.php">Kaneri-Math</a></li>
                     </ul>
                 </div>
             </div>

@@ -1,5 +1,6 @@
 
 <?php
+$active_index="active";
 include_once 'header.php'
 ?>
 
@@ -20,7 +21,7 @@ include_once 'header.php'
                 <img src="images/mahalxmi.jpg" class="img-responsive">
             </div>
             <div class="item" >
-                <img src="images/rankala1.jpg" class="img-responsive">
+                <img src="images/Rankala/rankala1.jpg" class="img-responsive">
             </div>
             <div class="item" >
                 <img src="images/jotiba.jpg" class="img-responsive" >
